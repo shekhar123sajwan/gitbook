@@ -44,7 +44,7 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 - [Emoji Homepage](http://emojihomepage.com/)
 - [Lunicode](https://lunicode.com/flip)
 - [😋 Get Emoji — All Emojis to ✂️ Copy and 📋 Paste 👌](https://getemoji.com/)
-
+- [Emoji Symbols](https://copypastemoji.text-generator.org/)
 
 ## Emoji as Favicon
 - [SVG Emoji Favicons](https://emojifav.com/)
